@@ -45,11 +45,11 @@ def multiply(m, n):
 
 
 def subtract(m, n):
-    result = m
-    if n < 0:
-        for i in range(m):
-            result += 1
+    res = m
+    if n >= 0:
+        for x in range(n):
+            res -= 1
     else:
-        for i in range(m):
-            result -= 1
-    return result
+        for x in range(0, -n):
+            res += 1
+    return res
