@@ -1,6 +1,8 @@
 # ASE Calc Microservice
 
-[![Coverage Status](https://app.travis-ci.com/danielecr/ASE-lab3.svg?branch=master)](https://app.travis-ci.com/danielecr/ASE-lab3.svg?branch=master)
+[![TrevisCI Build](https://app.travis-ci.com/danielecr/ASE-lab3.svg?branch=master)](https://app.travis-ci.com/danielecr/ASE-lab3.svg?branch=master)
+
+[![Coverage Status](https://coveralls.io/repos/github/danielecr/ASE-lab3/badge.svg)](https://coveralls.io/github/danielecr/ASE-lab3)
 
 
 ### Setup the environment
